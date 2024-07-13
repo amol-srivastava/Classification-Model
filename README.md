@@ -40,9 +40,10 @@ This project aims to predict Premier League game winners using historical data, 
 - **Libraries**: `matplotlib`, `seaborn`
 - **Description**: Generates visualizations to illustrate feature importance and model accuracy.
 
-<img width="60%" alt="MatchPic2" src="https://github.com/user-attachments/assets/412d7fa3-8856-404f-945b-237dff30a056">
+<img width="70%" alt="MatchPic2" src="https://github.com/user-attachments/assets/412d7fa3-8856-404f-945b-237dff30a056">
 
-
+<img width="70%" alt="MatchPic1" src="https://github.com/user-attachments/assets/92d51ac3-c2b4-489a-a1c1-8ead2bad5ffb">
+ 
 
 ## Results
 
