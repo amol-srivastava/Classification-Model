@@ -50,9 +50,6 @@ This project aims to predict Premier League game winners using historical data, 
 - **Model Accuracy**: 60.28%
 - **Precision with Rolling Averages**: 62.50%
 
-## Contributing
 
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-<img width="20%" alt="Python" src = "https://github.com/user-attachments/assets/1acf1bb3-e2f9-4c34-87b9-ad284f9089de">
-<img width="20%" alt="juypter" src="https://github.com/user-attachments/assets/17529e43-9183-406e-ad94-26b605896018">
+<img width="10%" alt="Python" src = "https://github.com/user-attachments/assets/1acf1bb3-e2f9-4c34-87b9-ad284f9089de">
+<img width="10%" alt="juypter" src="https://github.com/user-attachments/assets/17529e43-9183-406e-ad94-26b605896018">
