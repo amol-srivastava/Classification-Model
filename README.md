@@ -48,7 +48,6 @@ This project aims to predict Premier League game winners using historical data, 
 ## Results
 
 - **Model Accuracy**: 60.28%
-- **Precision**: 45.28%
 - **Precision with Rolling Averages**: 62.50%
 
 ## Contributing
