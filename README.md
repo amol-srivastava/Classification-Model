@@ -40,6 +40,10 @@ This project aims to predict Premier League game winners using historical data, 
 - **Libraries**: `matplotlib`, `seaborn`
 - **Description**: Generates visualizations to illustrate feature importance and model accuracy.
 
+  ![pml](https://github.com/user-attachments/assets/d2fd750c-9798-4f4f-bbe8-16b34d2e45fe)
+
+<img width="50%" alt="MatchPic2" src="https://github.com/user-attachments/assets/412d7fa3-8856-404f-945b-237dff30a056">
+
 ## Results
 
 - **Model Accuracy**: 60.28%
