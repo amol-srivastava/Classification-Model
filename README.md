@@ -42,7 +42,6 @@ This project aims to predict Premier League game winners using historical data, 
 
 <img width="70%" alt="MatchPic2" src="https://github.com/user-attachments/assets/412d7fa3-8856-404f-945b-237dff30a056">
 
-<img width="70%" alt="MatchPic1" src="https://github.com/user-attachments/assets/92d51ac3-c2b4-489a-a1c1-8ead2bad5ffb">
  
 
 <img width="10%" alt="Python" src = "https://github.com/user-attachments/assets/1acf1bb3-e2f9-4c34-87b9-ad284f9089de">
